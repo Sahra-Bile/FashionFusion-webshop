@@ -20,5 +20,18 @@ function create_custom_post_type()
             'supports' => array('title', 'editor'),
         )
     );
+    register_post_type(
+        'nyheter',
+        array(
+            'labels' => array(
+                'name' => __('Nyheter'),
+                'singular_name' => __('Nyhet')
+            ),
+            'public' => true,
+            'has_archive' => true,
+            'supports' => array('title', 'editor', 'thumbnail', 'excerpt'),
+        )
+    );
 }
 add_action('init', 'create_custom_post_type');
+add_action('init', 'create_news_post_type');
