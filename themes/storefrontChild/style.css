@@ -8,3 +8,21 @@
 */
 
 /* Skriv dina anpassningar här */
+
+.butik{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    font-size: 10x;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+h2{
+    font-size: 25px;
+    color: blueviolet;
+    text-align: center;
+}
