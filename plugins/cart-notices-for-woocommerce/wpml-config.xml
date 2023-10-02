@@ -1,0 +1,13 @@
+<wpml-config>  
+    <custom-types>
+        <custom-type translate="1">br_notice</custom-type>
+    </custom-types> 
+    <shortcodes>
+        <shortcode>
+            <tag>br_cart_notices</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>

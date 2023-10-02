@@ -1,0 +1,394 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cart Notices for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-24 07:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: cart-notices-for-woocommerce"
+
+#: includes/custom_post.php:149
+msgid "Add New Notice"
+msgstr ""
+
+#: includes/custom_post.php:148
+msgid "Add Notice"
+msgstr ""
+
+#: main.php:806
+msgid "Add page"
+msgstr ""
+
+#: includes/custom_post.php:147
+msgctxt "Admin menu name"
+msgid "Notices"
+msgstr ""
+
+#: includes/custom_post.php:411
+msgid "All of this products in cart"
+msgstr ""
+
+#: main.php:743
+msgid "Archive page"
+msgstr ""
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr ""
+
+#: includes/custom_post.php:417
+msgid "Blocking Products"
+msgstr ""
+
+#: includes/custom_post.php:498
+msgid "Cart"
+msgstr ""
+
+#: includes/custom_post.php:201
+msgid "Cart Notice Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Cart Notices for WooCommerce"
+msgstr ""
+
+#: main.php:719
+msgid "Cart page"
+msgstr ""
+
+#: includes/custom_post.php:227
+msgid "cart total cost"
+msgstr ""
+
+#: includes/custom_post.php:443
+msgid "Category"
+msgstr ""
+
+#: includes/custom_post.php:248
+msgid "category name"
+msgstr ""
+
+#: includes/paid.php:44
+msgid "Check limitation for"
+msgstr ""
+
+#: main.php:711
+msgid "Chekcout page"
+msgstr ""
+
+#: includes/custom_post.php:488
+msgid "Condition Additional settings"
+msgstr ""
+
+#: includes/custom_post.php:489
+msgid "Condition Mode"
+msgstr ""
+
+#: includes/custom_post.php:499
+msgid ""
+"Condition will check all products in cart and display only one notice for "
+"cart summary"
+msgstr ""
+
+#: includes/paid.php:112
+msgid ""
+"Condition will check each product and will display one notice for each "
+"product, that match conditions"
+msgstr ""
+
+#: includes/custom_post.php:494
+msgid ""
+"Condition will check each product, but display only one notice for products "
+"summary"
+msgstr ""
+
+#: includes/custom_post.php:200
+msgid "Conditions"
+msgstr ""
+
+#: includes/custom_post.php:349
+msgid "Days of week"
+msgstr ""
+
+#: includes/custom_post.php:202
+msgid "Description"
+msgstr ""
+
+#: main.php:687
+msgid "Disable notices on cart"
+msgstr ""
+
+#: main.php:692
+msgid "disable notices on cart page"
+msgstr ""
+
+#: main.php:695
+msgid "Disable notices on checkout"
+msgstr ""
+
+#: main.php:700
+msgid "disable notices on checkout page"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display on cart page notices based on products and product categories in "
+"cart, cart cost, current day and time, customer referrer."
+msgstr ""
+
+#: includes/paid.php:111
+msgid "Each product"
+msgstr ""
+
+#: includes/custom_post.php:150
+msgid "Edit"
+msgstr ""
+
+#: includes/custom_post.php:151
+msgid "Edit Notice"
+msgstr ""
+
+#: includes/custom_post.php:390
+msgid "Friday"
+msgstr ""
+
+#: main.php:309
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Author URI of the plugin
+msgid ""
+"https://berocket.com?"
+"utm_source=free_plugin&utm_medium=plugins&utm_campaign=cart_notices"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://wordpress.org/plugins/cart-notices-for-woocommerce/?"
+"utm_source=free_plugin&utm_medium=plugins&utm_campaign=cart_notices"
+msgstr ""
+
+#: includes/custom_post.php:444
+msgid "If one of matched products has this category"
+msgstr ""
+
+#: includes/custom_post.php:239
+msgid "list of products that matching"
+msgstr ""
+
+#: includes/custom_post.php:313
+msgid "Maximum price"
+msgstr ""
+
+#: includes/custom_post.php:430
+msgid "Maximum quantity of products"
+msgstr ""
+
+#: includes/custom_post.php:343
+msgid "Maximum time"
+msgstr ""
+
+#: includes/custom_post.php:307
+msgid "Minimum price"
+msgstr ""
+
+#: includes/custom_post.php:424
+msgid "Minimum quantity of products"
+msgstr ""
+
+#: includes/custom_post.php:336
+msgid "Minimum time"
+msgstr ""
+
+#: main.php:310
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/custom_post.php:362
+msgid "Monday"
+msgstr ""
+
+#: includes/custom_post.php:152
+msgid "New Notice"
+msgstr ""
+
+#: includes/custom_post.php:156
+msgid "No Notices found"
+msgstr ""
+
+#: includes/custom_post.php:157
+msgid "No Notices found in trash"
+msgstr ""
+
+#: includes/custom_post.php:418
+msgid "No one of this products in cart"
+msgstr ""
+
+#: includes/custom_post.php:493
+msgid "Normal"
+msgstr ""
+
+#: includes/custom_post.php:143 includes/custom_post.php:146
+msgid "Notice"
+msgstr ""
+
+#: includes/custom_post.php:226
+msgid "notice price"
+msgstr ""
+
+#: includes/custom_post.php:145
+msgid "Notices"
+msgstr ""
+
+#: main.php:759
+msgid "Other pages"
+msgstr ""
+
+#: main.php:780
+msgid "Pages to display notices"
+msgstr ""
+
+#: main.php:706
+msgid "Pages to show"
+msgstr ""
+
+#: includes/custom_post.php:324
+msgid "Price type"
+msgstr ""
+
+#: main.php:727
+msgid "Product page"
+msgstr ""
+
+#: includes/custom_post.php:321
+msgid "Products price with Tax"
+msgstr ""
+
+#: includes/custom_post.php:320
+msgid "Products price without Tax"
+msgstr ""
+
+#: includes/paid.php:50
+msgid "Products without variation and products with variations"
+msgstr ""
+
+#: includes/paid.php:49
+msgid "Products without variation and variations"
+msgstr ""
+
+#: includes/custom_post.php:240
+msgid "quantity of matching products"
+msgstr ""
+
+#: includes/custom_post.php:241
+msgid "quantity of products over minimum"
+msgstr ""
+
+#: includes/custom_post.php:242
+msgid "quantity of products under maximum"
+msgstr ""
+
+#: includes/custom_post.php:455
+msgid "Referer host"
+msgstr ""
+
+#: includes/custom_post.php:225
+msgid "required additional cost amount for minimum price"
+msgstr ""
+
+#: includes/custom_post.php:410
+msgid "Required Products"
+msgstr ""
+
+#: includes/custom_post.php:397
+msgid "Saturday"
+msgstr ""
+
+#: includes/custom_post.php:155
+msgid "Search Notices"
+msgstr ""
+
+#: main.php:735
+msgid "Shop page"
+msgstr ""
+
+#: main.php:810
+msgid "Shortcode"
+msgstr ""
+
+#: includes/custom_post.php:355
+msgid "Sunday"
+msgstr ""
+
+#: includes/custom_post.php:159
+msgid "This is where you can add new notices that you can add to products."
+msgstr ""
+
+#: includes/custom_post.php:383
+msgid "Thursday"
+msgstr ""
+
+#: includes/custom_post.php:233
+msgid "time before deadline"
+msgstr ""
+
+#: includes/custom_post.php:369
+msgid "Tuesday"
+msgstr ""
+
+#: includes/custom_post.php:325
+msgid "Use price tax(VAT) for cart total"
+msgstr ""
+
+#: main.php:679
+msgid "Use WC notices"
+msgstr ""
+
+#: main.php:684
+msgid ""
+"use WooCommerce notices functions. You cannot select pages where notice will "
+"be displayed."
+msgstr ""
+
+#: includes/custom_post.php:223 includes/custom_post.php:231
+#: includes/custom_post.php:237 includes/custom_post.php:246
+msgid "Variables"
+msgstr ""
+
+#: includes/custom_post.php:154
+msgid "View Notice"
+msgstr ""
+
+#: includes/custom_post.php:153
+msgid "View Notices"
+msgstr ""
+
+#: includes/custom_post.php:376
+msgid "Wednesday"
+msgstr ""
+
+#: main.php:751
+msgid "WooCommerce AJAX"
+msgstr ""
+
+#: includes/custom_post.php:337 includes/custom_post.php:344
+msgid ""
+"You can use hours and minutes. Correct time is: \"12\", \"1:20\", \"18:30\""
+msgstr ""
+
+#: main.php:811
+msgid "You can use shortcode to display notices"
+msgstr ""

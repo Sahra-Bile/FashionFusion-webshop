@@ -1,0 +1,14 @@
+.et-db #et-boc .et-l .et-fb-modules-list .et_fb_berocket_modules:before {
+    content: "";
+    background:url("ico.png");
+    height: 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.et-db #et-boc .et-l .et-fb-modules-list .et_fb_br_cart_notice:before {
+    content:"e"
+}
+.et_pb_module_inner .berocket_cart_notice_shortcode > * {
+    border-style: solid;
+}

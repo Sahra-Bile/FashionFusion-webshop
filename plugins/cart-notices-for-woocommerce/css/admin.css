@@ -1,0 +1,48 @@
+.link-tab{
+    float: left;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    margin-left: .5em;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 24px;
+    background: #0085ba;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+.link-tab:hover{
+    background: #008ec2;
+    color: #fff;
+}
+.link-tab:hover,
+.link-tab:focus {
+    outline: none;
+}
+.berocket_days_of_week td label {
+    white-space: nowrap;
+}
+.br_framework_settings .br_notice_not_fix_duplicate_all .br_notices_page_remove.button {
+    padding: 2px 8px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+li.br_notices_page_id {
+    margin-right: 10px;
+    display: inline-block;
+}
+.br_framework_settings .br_notices_page_select {
+    height: 40px;
+}
+.br_framework_settings .br_notice_not_fix_duplicate_all .br_notices_page_add.button {
+    margin-top: 0;
+}
+ .br_notice_not_fix_duplicate_all button.button.br_notices_page_remove:before {
+    content: "\f00d";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    margin-right: 5px;
+}
