@@ -6,7 +6,6 @@ get_header();
 
 $args = array(
     'post_type' => 'butik',
-    // Uppdatera till rätt posttypsnamn
     'posts_per_page' => -1,
 );
 
@@ -24,7 +23,6 @@ if ($query->have_posts()):
         echo '<p>Öppettider lördagar: ' . get_field('oppettider_lordagar') . '</p>';
         echo '<p>Öppettider söndagar: ' . get_field('oppettider_sondagar') . '</p>';
         echo '<p> Avvikande Öppettider: ' . get_field('avvikande_oppettider') . '</p>';
-        // Lägg till andra fält här
         echo '</div>';
     endwhile;
 endif;

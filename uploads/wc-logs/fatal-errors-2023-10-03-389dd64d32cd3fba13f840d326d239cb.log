@@ -1,0 +1,18 @@
+2023-10-03T20:59:22+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php:441
+Stack trace:
+#0 /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php(441): sprintf('%s inl\xC3\xA4gg flyt...', '1')
+#1 {main}
+  thrown i /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php på rad 441
+
+2023-10-03T21:02:32+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php:439
+Stack trace:
+#0 /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php(439): sprintf('%s inl\xC3\xA4gg flyt...', '1')
+#1 {main}
+  thrown i /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php på rad 439
+
+2023-10-03T21:12:49+00:00 CRITICAL Uncaught ArgumentCountError: 3 arguments are required, 2 given in /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php:439
+Stack trace:
+#0 /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php(439): sprintf('%s inl\xC3\xA4gg flyt...', '1')
+#1 {main}
+  thrown i /Applications/MAMP/htdocs/FashionFusion/wordpress /wp-admin/edit.php på rad 439
+
